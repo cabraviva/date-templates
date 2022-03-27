@@ -1,0 +1,26 @@
+{
+  "name": "date-templates",
+  "version": "1.0.0",
+  "description": "Simple date templates and date generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/date-templates.git"
+  },
+  "keywords": [
+    "date",
+    "date-generator",
+    "generator",
+    "templates",
+    "date-templates"
+  ],
+  "author": "greencoder001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/date-templates/issues"
+  },
+  "homepage": "https://github.com/greencoder001/date-templates#readme"
+}
